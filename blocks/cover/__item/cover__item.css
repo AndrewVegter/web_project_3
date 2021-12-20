@@ -2,7 +2,7 @@
   min-height: 740px;
   text-decoration: none;
   box-sizing: border-box;
-  background-image: url("./images/__field.jpg");
+  background-image: url("../../../images/__field.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
