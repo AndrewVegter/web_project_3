@@ -1,0 +1,19 @@
+.cover {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 92px auto;
+  width: 100%;
+  max-width: 1184px;
+}
+
+@media screen and (max-width: 920px) {
+  .cover {
+    margin: 92px 0 88px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .cover {
+    margin: 64px 0;
+  }
+}
