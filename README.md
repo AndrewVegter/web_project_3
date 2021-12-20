@@ -13,3 +13,5 @@ This project was made so that all visitors can learn a thing or two about the pl
 
 ### Possible changes
   * Adjusting various margins, and maybe fixing some of the clunkiness in scaling
+
+### Link to page [here](https://andrewvegter.github.io/web_project_3/).
