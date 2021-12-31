@@ -7,9 +7,12 @@
   text-align: center;
   text-decoration: none;
   font-size: 18px;
+  line-height: 1.1;
+  font-weight: 600;
   max-width: 256px;
   height: 48px;
   line-height: 48px;
+  transition: 0.3s;
 }
 
 .place__button:hover {
